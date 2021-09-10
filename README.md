@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @richardcerros
+- 👀 I’m interested in photography, typography, and graphic design 
+- 🌱 I’m currently learning Raspberry Pi
